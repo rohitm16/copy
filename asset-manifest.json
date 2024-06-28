@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HackStack-24/static/css/main.337f5200.css",
+    "main.js": "/HackStack-24/static/js/main.433aacce.js",
+    "index.html": "/HackStack-24/index.html",
+    "main.337f5200.css.map": "/HackStack-24/static/css/main.337f5200.css.map",
+    "main.433aacce.js.map": "/HackStack-24/static/js/main.433aacce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.337f5200.css",
+    "static/js/main.433aacce.js"
+  ]
+}
