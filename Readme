@@ -1,0 +1,10 @@
+hi
+This is just a simple webpage made using React framwork, i have added toadtify , react-icons and used useState , Axions to make it work .
+The Error hanlding is working fine and the look is very simple.
+If i gets time i will add little bit of more styling to it and will make some changes to it
+It may be possible that Network Error appears on your screen , as while making it i have already exceed the request limit from Accuweather,
+in this case you can change the API_Key from someone else and try it.
+I made App1 and App2 because recently the fetch function was working fine , but now when i shift to Axions , it was showing the network eror and the location API was woking fine its just the current weather API not working , so i will fix it as soon as my API request limit resets
+Thank you
+
+Now the app is working all fine
